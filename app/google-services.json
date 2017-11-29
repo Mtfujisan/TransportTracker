@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "810683976296",
+    "firebase_url": "https://mapfinder-6e46a.firebaseio.com",
+    "project_id": "mapfinder-6e46a",
+    "storage_bucket": "mapfinder-6e46a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810683976296:android:f81f430827daa525",
+        "android_client_info": {
+          "package_name": "example.darky_000.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810683976296-tp57p6t9hnhiqeed9tpr3m2hgtiqr80p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.darky_000.transporttracker",
+            "certificate_hash": "c554c2270d6f6ffd0e1460e25b0838ab22e7a28b"
+          }
+        },
+        {
+          "client_id": "810683976296-tr3fseacr60krq62ualdo2o6oha52odu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdo2Jf7YD-7I4GWjnvpE-L4Pl9IqTXIFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810683976296-tr3fseacr60krq62ualdo2o6oha52odu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
